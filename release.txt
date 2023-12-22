@@ -1,1 +1,4 @@
 This is another release file for merge conflict
+This is a release file to test merfe conflict
+This should be a different line.
+
